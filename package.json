@@ -1,0 +1,18 @@
+{
+  "name": "any-table",
+  "version": "1.0.1",
+  "description": "gives you multiply of a number ",
+  "main": "code.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "table",
+    "multiplier",
+    "multiply number",
+    "multiplication",
+    "modules"
+  ],
+  "author": "Amritanshu Dev Rawat",
+  "license": "ISC"
+}
